@@ -2,6 +2,7 @@
 
 import subprocess, os 
 
+# Should create a script to create a virtual env on the users end. 
 sandbox_directory = "/Users/maxfu/Desktop/AI/Research/LLM-Execution-Environment"
 os.chdir(sandbox_directory) 
 

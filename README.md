@@ -7,9 +7,7 @@ Learning how to create a LLM sandbox execution environment.
 
 Run the following command to install the necessary packages to run the LLM-Execution-Environment Autograding project. 
 
-    ```
     pip install -r requirement.txt
-    ```
 
 ## Objective: 
 Write a basic script to simulate the autograding and feedback response from a LLM. 

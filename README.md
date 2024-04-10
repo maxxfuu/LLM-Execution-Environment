@@ -3,8 +3,10 @@
 
 Learning how to create a LLM sandbox execution environment. 
 
-## 1️⃣ Phase One 
-1. Prompt the model to write some code. 
-1. Create a pipeline for the models output. 
-1. Create a script that uses import os and subprocess to create a virtual python environment. 
-1. Have the script run a Unit Test Code against a dummy code. 
+## Objective: 
+Write a basic script to simulate the autograding and feedback response from a LLM. 
+## 👨🏻‍💻 Game Plan 
+1. Write dummy code thats easy for testing. 
+1. Pipline the dummy code into a Model to create unit tests. 
+1. Pipline both the dummy code and unit test to a secure sandbox for test. 
+1. Have another model evaluate the code and give feedback. 

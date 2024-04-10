@@ -1,2 +1,3 @@
 def piped(input): 
+    
     pass

@@ -16,3 +16,9 @@ Write a basic script to simulate the autograding and feedback response from a LL
 1. Pipline the dummy code into a Model to create unit tests. 
 1. Pipline both the dummy code and unit test to a secure sandbox for test. 
 1. Have another model evaluate the code and give feedback. 
+
+
+## ⌨️ Testing Phase 
+
+1. 2 criteria (fixed criteria). To feed it into the model and give 2 output. 
+1. For Max: finetune a model with zyBooks + projects + 2 fixed criteria + scores.
